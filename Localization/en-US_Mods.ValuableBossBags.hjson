@@ -1,0 +1,123 @@
+Configs: {
+	ValuableBossBagsConfig: {
+		Headers: {
+			ValueMultiplierHeader: Value Multiplier Header Header
+			ValueMultiplier: Value Multiplier Header
+			BossBagsEnabled/Disabled: Boss Bags Enabled/ Disabled Header
+			BossBagsEnable/DisableValue: Boss Bags Enable/ Disable Value Header
+			BossBagValues: Boss Bag Values Header
+		}
+
+		ValueMultiplier: {
+			Label: Value Multiplier
+			Tooltip: Adjusts the multiplier for boss bag values. Values between 0.5 and 10.
+		}
+
+		DisplayName: Valuable Boss Bags Config
+
+		EnableKingSlime: {
+			Label: King Slime
+			Tooltip: Enable or disable the ability to sell King Slime's boss bag.
+		}
+
+		EnableEyeOfCthulhu: {
+			Label: Eye of Cthulhu
+			Tooltip: Enable or disable the ability to sell Eye of Cthulhu's boss bag.
+		}
+
+		EnableEaterOfWorlds: {
+			Label: Eater of Worlds
+			Tooltip: Enable or disable the ability to sell Eater of Worlds' boss bag.
+		}
+
+		EnableBrainOfCthulhu: {
+			Label: Brain of Cthulhu
+			Tooltip: Enable or disable the ability to sell Brain of Cthulhu's boss bag.
+		}
+
+		EnableQueenBee: {
+			Label: Queen Bee
+			Tooltip: Enable or disable the ability to sell Queen Bee's boss bag.
+		}
+
+		EnableSkeletron: {
+			Label: Skeletron
+			Tooltip: Enable or disable the ability to sell Skeletron's boss bag.
+		}
+
+		EnableWallOfFlesh: {
+			Label: Wall of Flesh
+			Tooltip: Enable or disable the ability to sell Wall of Flesh's boss bag.
+		}
+
+		EnableQueenSlime: {
+			Label: Queen Slime
+			Tooltip: Enable or disable the ability to sell Queen Slime's boss bag.
+		}
+
+		EnableDestroyer: {
+			Label: Destroyer
+			Tooltip: Enable or disable the ability to sell Destroyer's boss bag.
+		}
+
+		EnableTwins: {
+			Label: Twins
+			Tooltip: Enable or disable the ability to sell Twins' boss bag.
+		}
+
+		EnableSkeletronPrime: {
+			Label: Skeletron Prime
+			Tooltip: Enable or disable the ability to sell Skeletron Prime's boss bag.
+		}
+
+		EnablePlantera: {
+			Label: Plantera
+			Tooltip: Enable or disable the ability to sell Plantera's boss bag.
+		}
+
+		EnableGolem: {
+			Label: Golem
+			Tooltip: Enable or disable the ability to sell Golem's boss bag.
+		}
+
+		EnableFishron: {
+			Label: Fishron
+			Tooltip: Enable or disable the ability to sell Fishron's boss bag.
+		}
+
+		EnableMoonLord: {
+			Label: Moon Lord
+			Tooltip: Enable or disable the ability to sell Moon Lord's boss bag.
+		}
+
+		EnableBetsy: {
+			Label: Betsy
+			Tooltip: Enable or disable the ability to sell Betsy's boss bag.
+		}
+
+		EnableEmpressOfLight: {
+			Label: Empress of Light
+			Tooltip: Enable or disable the ability to sell Empress of Light's boss bag.
+		}
+
+		EnableCultist: {
+			Label: Cultist
+			Tooltip: Enable or disable the ability to sell Cultist's boss bag.
+		}
+
+		EnableDeerclops: {
+			Label: Deerclops
+			Tooltip: Enable or disable the ability to sell Deerclops' boss bag.
+		}
+
+		ValueEyeOfCthulhu: {
+			Label: Value Eye Of Cthulhu
+			Tooltip: ""
+		}
+
+		ValueKingSlime: {
+			Label: Value King Slime
+			Tooltip: ""
+		}
+	}
+}

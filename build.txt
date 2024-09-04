@@ -1,0 +1,3 @@
+displayName = Valuable Boss Bags
+author = GreenLass
+version = 0.1

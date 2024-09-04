@@ -1,0 +1,12 @@
+Valuable Boss Bags is a Terraria mod that enhances your gameplay by allowing you to sell boss bags for increased profit. With this mod, you can customize the value of boss bags and choose which boss bags can be sold.
+
+Features
+Adjustable Boss Bag Values: Modify the value of boss bags using a configurable multiplier.
+Customizable Boss Bag Options: Enable or disable the ability to sell boss bags for various bosses.
+
+Configuration
+Value Multiplier: Adjusts the multiplier for boss bag values. You can set a value between 0.5 and 10.
+Enable/Disable Boss Bags: Control whether you can sell boss bags for specific bosses.
+
+Usage
+Access the mod’s configuration menu in Terraria to adjust the value multiplier and toggle which boss bags are enabled or disabled. Enjoy the flexibility in managing your in-game economy with Valuable Boss Bags!
