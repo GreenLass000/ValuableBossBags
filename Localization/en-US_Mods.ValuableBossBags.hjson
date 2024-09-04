@@ -1,11 +1,9 @@
 Configs: {
 	ValuableBossBagsConfig: {
 		Headers: {
-			ValueMultiplierHeader: Value Multiplier Header Header
-			ValueMultiplier: Value Multiplier Header
-			BossBagsEnabled/Disabled: Boss Bags Enabled/ Disabled Header
-			BossBagsEnable/DisableValue: Boss Bags Enable/ Disable Value Header
-			BossBagValues: Boss Bag Values Header
+			ValueMultiplier: Value Multiplier
+			BossBagsEnable/DisableValue: Boss Bags Enable/ Disable Value
+			BossBagValues: Boss Bag Values
 		}
 
 		ValueMultiplier: {
@@ -95,11 +93,6 @@ Configs: {
 			Tooltip: Enable or disable the ability to sell Betsy's boss bag.
 		}
 
-		EnableEmpressOfLight: {
-			Label: Empress of Light
-			Tooltip: Enable or disable the ability to sell Empress of Light's boss bag.
-		}
-
 		EnableCultist: {
 			Label: Cultist
 			Tooltip: Enable or disable the ability to sell Cultist's boss bag.
@@ -117,6 +110,116 @@ Configs: {
 
 		ValueKingSlime: {
 			Label: Value King Slime
+			Tooltip: ""
+		}
+
+		EnableFairyQueen: {
+			Label: Empress of Light
+			Tooltip: Enable or disable the ability to sell Empress of Light's boss bag.
+		}
+
+		EnableDarkMage: {
+			Label: Enable Dark Mage
+			Tooltip: ""
+		}
+
+		EnableOgre: {
+			Label: Enable Ogre
+			Tooltip: ""
+		}
+
+		ValueEaterOfWorlds: {
+			Label: Value Eater Of Worlds
+			Tooltip: ""
+		}
+
+		ValueBrainOfCthulhu: {
+			Label: Value Brain Of Cthulhu
+			Tooltip: ""
+		}
+
+		ValueQueenBee: {
+			Label: Value Queen Bee
+			Tooltip: ""
+		}
+
+		ValueSkeletron: {
+			Label: Value Skeletron
+			Tooltip: ""
+		}
+
+		ValueWallOfFlesh: {
+			Label: Value Wall Of Flesh
+			Tooltip: ""
+		}
+
+		ValueTwins: {
+			Label: Value Twins
+			Tooltip: ""
+		}
+
+		ValueDestroyer: {
+			Label: Value Destroyer
+			Tooltip: ""
+		}
+
+		ValueSkeletronPrime: {
+			Label: Value Skeletron Prime
+			Tooltip: ""
+		}
+
+		ValuePlantera: {
+			Label: Value Plantera
+			Tooltip: ""
+		}
+
+		ValueGolem: {
+			Label: Value Golem
+			Tooltip: ""
+		}
+
+		ValueFishron: {
+			Label: Value Fishron
+			Tooltip: ""
+		}
+
+		ValueCultist: {
+			Label: Value Cultist
+			Tooltip: ""
+		}
+
+		ValueMoonLord: {
+			Label: Value Moon Lord
+			Tooltip: ""
+		}
+
+		ValueDeerclops: {
+			Label: Value Deerclops
+			Tooltip: ""
+		}
+
+		ValueFairyQueen: {
+			Label: Value Fairy Queen
+			Tooltip: ""
+		}
+
+		ValueQueenSlime: {
+			Label: Value Queen Slime
+			Tooltip: ""
+		}
+
+		ValueDarkMage: {
+			Label: Value Dark Mage
+			Tooltip: ""
+		}
+
+		ValueOgre: {
+			Label: Value Ogre
+			Tooltip: ""
+		}
+
+		ValueBetsy: {
+			Label: Value Betsy
 			Tooltip: ""
 		}
 	}

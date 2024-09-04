@@ -1,29 +1,17 @@
-using Terraria;
 using Terraria.ModLoader;
+using Terraria.ModLoader.Config;
 
 namespace ValuableBossBags
 {
-    public class BossBagValue : GlobalItem
+    public class ValuableBossBags : Mod
     {
-        public override void SetDefaults(Item item)
+        public ValuableBossBags()
         {
-            base.SetDefaults(item);
+        }
 
-            var config = ModContent.GetInstance<ValuableBossBagsConfig>();
-            float multiplier = config.ValueMultiplier;
-            multiplier = RoundToNearest(multiplier, 0.05f);
-
-            switch (item.type)
-            {
-                case ItemID.EyeOfCthulhuBossBag:
-                    UpdateBossBagValue(item, config.EnableEyeOfCthulhu, multiplier, config.ValueEyeOfCthulhu);
-                    Mod.Logger.Info($"EyeOfCthulhu Boss Bag Value: {item.value}");
-                    break;
-                case ItemID.KingSlimeBossBag:
-                    UpdateBossBagValue(item, config.EnableKingSlime, multiplier, config.ValueKingSlime);
-                    Mod.Logger.Info($"King Slime Boss Bag Value: {item.value}");
-                    break;
-            }
+        public override void Load()
+        {
+            base.Load();
         }
     }
 }
